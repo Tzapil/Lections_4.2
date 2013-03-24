@@ -1,0 +1,6 @@
+/Labs
+*.log
+*.out
+*.pdf
+*.gz
+*.aux
