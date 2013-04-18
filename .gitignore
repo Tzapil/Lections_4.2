@@ -3,5 +3,6 @@
 *.log
 *.out
 *.pdf
+*.dvi
 *.gz
 *.aux
